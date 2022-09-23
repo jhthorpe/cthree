@@ -22,7 +22,8 @@
 #define _CCC_OCC_ 0
 #define _CCC_VRT_ 1
 #define _CCC_GEN_ 2
-static const char _CCC_LABELS_[4] = "ovg";
+#define _CCC_FRZ_ 3
+static const char _CCC_LABELS_[5] = "ovgf";
 
 
 
