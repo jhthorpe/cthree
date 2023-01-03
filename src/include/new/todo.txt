@@ -1,0 +1,13 @@
+Nodes
+  Data Nodes
+    - Space estimation function from user / defined
+
+  Operation Nodes
+    - Index map 
+    - Cost estimation function  
+
+Branch
+  Cost caller 
+
+Tree
+  copy tree
